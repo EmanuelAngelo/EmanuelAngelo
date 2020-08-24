@@ -20,4 +20,12 @@ Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Curren
 [![Linkedin: Emanuel Angelo](https://img.shields.io/badge/-EmanuelAngelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelangelo/)](https://www.linkedin.com/in/emanuelangelo/)
 [![GitHub Emanuel Angelo](https://img.shields.io/github/followers/EmanuelAngelo?label=follow&style=social)](https://github.com/EmanuelAngelo)
 [![Instagram Emanuel Angelo](https://img.shields.io/badge/Instagram-emanuel._angelo-green)](https://www.instagram.com/emanuel._angelo/)
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
+![Madara](https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif)
 
