@@ -23,5 +23,7 @@ Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Curren
 <br>
 <br>
 <br>
+~ Figurante no deserto pode vir que não me para<br>
+Uchiha Madara
 ![Madara](https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif)
 
