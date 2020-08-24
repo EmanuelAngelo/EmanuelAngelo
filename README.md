@@ -19,4 +19,5 @@ Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Curren
 [![Twitter: Emanuel Angelo](https://img.shields.io/twitter/follow/ruthusky?style=social)](https://twitter.com/ruthusky)
 [![Linkedin: Emanuel Angelo](https://img.shields.io/badge/-EmanuelAngelo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/emanuelangelo/)](https://www.linkedin.com/in/emanuelangelo/)
 [![GitHub Emanuel Angelo](https://img.shields.io/github/followers/EmanuelAngelo?label=follow&style=social)](https://github.com/EmanuelAngelo)
-[![Instagram Emanuel Angelo](https://img.shields.io/instagram/followers/emanuel._angelo?label=follow&style=social)](https://www.instagram.com/emanuel._angelo/)
+[![Instagram Emanuel Angelo](https://img.shields.io/badge/instagram-emanue.__angelo-lightgrey)](https://www.instagram.com/emanuel._angelo/)
+
