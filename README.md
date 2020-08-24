@@ -17,7 +17,10 @@
   <a target="_blank" href="https://www.facebook.com/emanuel.angelo.148/">
     <img align="left" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
   </a> <br>
-
 =============== <br>
+<p>Linguagens de Dominação</p>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br>
+
 
 ![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true)
