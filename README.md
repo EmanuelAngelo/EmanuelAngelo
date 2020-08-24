@@ -2,7 +2,7 @@
 
 <p>Hello, I graduated in class 2020.1 in Information Systems from UNDB (Centro Universitário Dom Bosco), I am currently doing a Professional Master in Computer Engineering I started at UEMA as a Special Student (State University of Maranhão) taking a Specialization in Software Engineering from Faculdade Dom Alberto EAD.
 My path of work has always been in the area of ​​Information Technology, working as a Computer Technician, I stopped by being a Technology Teacher at the CEAPI private school in my city, I am treading a new path and focusing on Systems Development on the Backend and Mobile side.<p/>
-**Languages and Tools: <br>
+**Languages and Tools**: <br>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code><br>
 
