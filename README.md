@@ -14,7 +14,10 @@ My path of work has always been in the area of ​​Information Technology, wor
 
 
 
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true)<br>
+![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true&theme=merko)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8)](https://github.com/EmanuelAngelo/github-readme-stats)<br>
+
 Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Currently I'm **free to contribute** <br>
 
 [![Twitter: Emanuel Angelo](https://img.shields.io/twitter/follow/ruthusky?style=social)](https://twitter.com/ruthusky)
