@@ -11,12 +11,14 @@ My path of work has always been in the area of ​​Information Technology, wor
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-
-
-
-![Aryclenio GitHub Stats](https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true&theme=merko)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8&theme=merko)](https://github.com/EmanuelAngelo/github-readme-stats)<br>
+<br>
+<br>
+<a href="https://github.com/EmanuelAngelo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=EmanuelAngelo&show_icons=true&theme=merko" />
+</a>
+<a href="https://github.com/EmanuelAngelo/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanuelAngelo&langs_count=8&theme=merko&layout=compact" />
+</a>
 
 Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Currently I'm **free to contribute** <br>
 
@@ -32,6 +34,5 @@ Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Curren
 ~ Figurante no deserto pode vir que não me para.
 </font>
 </p>
-
 ![Madara](https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif)
 
