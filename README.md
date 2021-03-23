@@ -28,5 +28,6 @@ Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Curren
 [![Instagram Emanuel Angelo](https://img.shields.io/badge/Instagram-emanuel._angelo-green)](https://www.instagram.com/emanuel._angelo/)
 <br>
 <br>
+QrCode que da acesso ao meu Linkedin
 <br>
 ![qr_code](https://user-images.githubusercontent.com/23459929/112155390-06457c00-8bc4-11eb-8db3-c4771ec3082b.png)
