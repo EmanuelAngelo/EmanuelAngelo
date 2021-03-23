@@ -35,12 +35,3 @@ Outside of [GitHub](https://github.com/EmanuelAngelo), You can **find me. Curren
 </font>
 </p>
 ![Madara](https://media.giphy.com/media/8qXJTU5oEhQZO/giphy.gif)
-<br>
-<p>
- <font size="2" face="Verdana">
-~ QrCode que da acesso ao meu Linkdin.
-</font>
-</p>
-<a>
-![qr_code](https://user-images.githubusercontent.com/23459929/112154620-37717c80-8bc3-11eb-99fe-0145173f1dca.png)
-</a>
