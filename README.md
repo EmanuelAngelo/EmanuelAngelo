@@ -1,4 +1,6 @@
 ## Bem vind@ a minha Pagina GitHub
+<h1 align="center">Hi 👋, I'm Emanuel Angelo</h1>
+<h3 align="center">Software Developers | Django API | Vuetify</h3>
 
 Portuguese <br>
 Olá, sou formado na turma 2020.1 em Sistemas de Informação pela UNDB (Centro Universitário Dom Bosco), estou no momento fazendo Mestrado Profissional em Engenharia da Computação comecei na UEMA sendo aluno Especial (Universidade Estadual do Maranhão) cursando uma Especialização em Engenharia de Software pela Faculdade Dom Alberto EAD.
@@ -9,8 +11,7 @@ English <br>
 Hello, I graduated in class 2020.1 in Information Systems from UNDB (Centro Universitário Dom Bosco), I am currently doing a Professional Master in Computer Engineering I started at UEMA as a Special Student (State University of Maranhão) taking a Specialization in Software Engineering from Faculdade Dom Alberto EAD.
 My path of work has always been in the area of ​​Information Technology, working as a Computer Technician, I stopped by being a Technology Teacher at the CEAPI private school in my city, I am treading a new path and focusing on Systems Development on the Backend and Mobile side. 
 
-<h1 align="center">Hi 👋, I'm Emanuel Angelo</h1>
-<h3 align="center">Software Developers | Django API | Vuetify</h3>
+-
 
 - 🔭 I’m currently working on [Odonto 2.0](odonto.undb.edu.br/)
 
